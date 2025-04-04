@@ -1,0 +1,14 @@
+#Alphabet {
+    color: blue;
+    font-size: 46px;;
+}
+.Number {
+    background-color:  pink;
+}
+#Alphabettwo {
+    font-size: 32px;
+    background-color: green;
+}
+.Number.ss{
+    font-size: large;
+}
